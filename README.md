@@ -1,2 +1,1 @@
-# aplikasi-kasir
-Aplikasi Kasir untuk yang ingin saja.
+Created by PWL71 Students UNIVERSITAS AMIKOM YOGYAKARTA
